@@ -1,4 +1,4 @@
-// Selecting all the elements from the DOM
+// Selecting all the elements from the DOM..
 const holes = document.querySelectorAll(".hole");
 const scoreBoard = document.querySelector(".score");
 const moles = document.querySelectorAll(".mole");
